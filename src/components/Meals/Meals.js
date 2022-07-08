@@ -4,7 +4,7 @@ import MealsSummary from "./MealsSummary"
 import AvailableMeals from "./AvailableMeals"
 
 const Meals = () => {
-    <Fragment>
+    return <Fragment>
         <MealsSummary />
         <AvailableMeals />
     </Fragment>
